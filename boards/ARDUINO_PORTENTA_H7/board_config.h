@@ -43,6 +43,8 @@
 #define OMV_GPU_ENABLE                      (1)
 
 // CSI drivers configuration.
+#define OMV_OV7670_ENABLE                   (1)
+#define OMV_OV7670_CLK_FREQ                 (12000000)
 #define OMV_OV5640_ENABLE                   (0)
 #define OMV_OV5640_AF_ENABLE                (1)
 #define OMV_OV5640_CLK_FREQ                 (12500000)
